@@ -1,7 +1,11 @@
 intel i?- lga1200 (10-11)
+
 intel i?- lga1700 (12-14)
+
 intel ultra ?- lga 1851 (200)
+
 amd ryzen (1000 ate 5000)
+
 amd ryzen (7000- 9000)
 
 
