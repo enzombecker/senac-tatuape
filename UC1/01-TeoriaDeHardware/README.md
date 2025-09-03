@@ -27,4 +27,5 @@ Processador AMD Ryzen 9 9900X
 Placa Mãe Asus ROG Strix X870-F Gaming WiFi, Chipset X870, AMD AM5
 
 cache uma latencia menor ou seja mais desenpenho 
-memoria ram mais latencia diretorio da UC-1
+memoria ram mais latencia 
+
