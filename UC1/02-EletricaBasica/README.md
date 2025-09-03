@@ -2,14 +2,17 @@
 
 Conceitos principais
 🔋 Sempre considerar pilha = 1,5V.
+
 ⚡ Tudo que for acima disso é considerado bateria.
+
 Cores dos cabos e tensões
-🟡 Amarelo → 12V
-Alimenta processador e placa de vídeo.
-🔴 Vermelho → 5V
-Circuitos de apoio, alguns HDs e memória.
-🟠 Laranja → 3,3V
-HD/SSD e outros componentes como a placa de vídeo.
+
+🟡 Amarelo → 12V Alimenta processador e placa de vídeo.
+
+🔴 Vermelho → 5V Circuitos de apoio, alguns HDs e memória.
+
+🟠 Laranja → 3,3V HD/SSD e outros componentes como a placa de vídeo.
+
 Obs.: Fontes atuais não seguem mais padrão de cores nos cabos.
 
 Instrumentação
