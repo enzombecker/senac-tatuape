@@ -1,15 +1,16 @@
-### 03/09/25
-sempre pilha e 1.5 v 
-tudo que for acima e bateria
+📅 Data: 03/09/2025
 
-cor dos capos
-amarela 12v processador e placa de viedo
+Conceitos principais
+🔋 Sempre considerar pilha = 1,5V.
+⚡ Tudo que for acima disso é considerado bateria.
+Cores dos cabos e tensões
+🟡 Amarelo → 12V
+Alimenta processador e placa de vídeo.
+🔴 Vermelho → 5V
+Circuitos de apoio, alguns HDs e memória.
+🟠 Laranja → 3,3V
+HD/SSD e outros componentes como a placa de vídeo.
+Obs.: Fontes atuais não seguem mais padrão de cores nos cabos.
 
-vermelho 5v circuito de apoio e alguns hd e alimenta a memoria 
-
-laranja 3.3v hd/ssd, e algumas outras coisa como placa de video 
-
-
-obs : fontes atuais nao tem cor de cabos
-
-usar um mutimetro para descobrir as v
+Instrumentação
+🧰 Usar multímetro para descobrir as tensões corretamente.
