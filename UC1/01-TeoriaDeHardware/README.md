@@ -1,33 +1,37 @@
-intel i?- lga1200 (10-11)
+# 🖥️ Gerações de Soquetes e Exemplos
 
-intel i?- lga1700 (12-14)
+## 🔹 Intel
+- **LGA 1200 (10ª e 11ª geração)**  
+  - Exemplo: **Core i5 10400** + Placa-mãe **H510**  
 
-intel ultra ?- lga 1851 (200)
+- **LGA 1700 (12ª até 14ª geração)**  
+  - Exemplo: **Core i9 14900F** + Placa-mãe **B760**  
 
-amd ryzen (1000 ate 5000)
+- **LGA 1851 (nova geração Ultra série 200)**  
+  - Exemplo: **Core Ultra 9 285** + Placa-mãe **B860**  
 
-amd ryzen (7000- 9000)
+## 🔹 AMD
+- **AM4 (Ryzen 1000 até 5000)**  
+  - Exemplo: **Ryzen 5 5600** + Placa-mãe **B550**  
 
+- **AM5 (Ryzen 7000 até 9000)**  
+  - Exemplo: **Ryzen 9 9900X** + Placa-mãe **X870**  
 
+---
 
+# ⚡ Cache x Memória RAM
 
-Processador Intel Core i5 10400,
-Placa Mãe Colorful CH510M-E M.2 V20, Chipset H510, Intel LGA 1200
+## 🔸 Cache (dentro do processador)
+- É uma memória **muito rápida e próxima da CPU**.  
+- **Quanto maior o cache → menor a latência → mais desempenho**, principalmente em jogos e tarefas que acessam dados repetidamente.  
 
-Processador Intel Core i9 14900F
-Placa Mãe Asus TUF Gaming B760M-PLUS WI-FI II, Chipset B760, Intel LGA 1700
+## 🔸 Memória RAM
+- **Latência menor → responde mais rápido aos pedidos do processador**.  
+- **Frequência maior (MHz) → mais velocidade na transferência de dados**.  
+- O ideal é **equilíbrio entre frequência e baixa latência**.  
 
-processador Intel Core Ultra 9 285
-Placa Mãe Gigabyte B860M AORUS ELITE WIFI6E, Chipset B860, Intel LGA 1851
-
-Processador AMD Ryzen 5 5600
-Placa Mãe ASRock B550M Steel Legend, Chipset B550, AMD AM4
-
-Processador AMD Ryzen 9 9900X
-Placa Mãe Asus ROG Strix X870-F Gaming WiFi, Chipset X870, AMD AM5
-
-cache uma latencia menor ou seja mais desenpenho 
-memoria ram mais latencia 
+---
+✅ Resumindo: **cache ajuda o processador a pensar mais rápido**, enquanto **RAM com baixa latência e alta frequência ajuda a alimentar a CPU com dados sem atrasos**.
 
 
  Relatório Comparativo de Processadores AMD  
