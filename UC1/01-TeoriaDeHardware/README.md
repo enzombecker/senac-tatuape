@@ -29,3 +29,35 @@ Placa Mãe Asus ROG Strix X870-F Gaming WiFi, Chipset X870, AMD AM5
 cache uma latencia menor ou seja mais desenpenho 
 memoria ram mais latencia 
 
+
+# 🖥️ Comparação de Processadores em Jogos
+
+## ❓ Por que o **Ryzen 9 9950X** (16c/32t) perde em jogos para o **Ryzen 7 9800X3D** (8c/16t)?
+
+### 🔹 Uso dos núcleos
+- A maioria dos jogos atuais **não utiliza todos os núcleos** disponíveis em processadores muito robustos.
+-   
+- Os desenvolvedores otimizam os jogos com base no **hardware mais comum entre os jogadores**, que geralmente possui menos núcleos.
+- 
+
+### 🔹 Cache 3D (V-Cache)
+- O **Ryzen 7 9800X3D** possui um **cache L3 muito maior (3D V-Cache)**.
+- 
+- Isso reduz a **latência** na comunicação entre o processador e a memória, acelerando o acesso às informações que os jogos precisam constantemente.
+- 
+
+### 🔹 Frequências
+- Apesar do **Ryzen 9 9950X** ter clocks altos, o **cache extra do 9800X3D** compensa e garante mais **fps estáveis** em jogos.
+
+
+---
+
+## ✅ Conclusão
+- Para **tarefas pesadas e multitarefas** (edição de vídeo, renderização, simulações), o **Ryzen 9 9950X** leva vantagem.
+- 
+- Para **jogos**, o **Ryzen 7 9800X3D** é superior, graças ao **V-Cache** otimizado para cenários onde a **latência e o acesso rápido a dados** fazem
+- 
+-  mais diferença do que a quantidade de núcleos
+
+
+
