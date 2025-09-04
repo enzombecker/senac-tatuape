@@ -86,3 +86,69 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 - Ryzen 7 9800X3D — **R$ 3.099,90**  
 
 ➡️ Em jogos, o **9800X3D entrega mais performance por real investido**. 
+
+
+# 🔎 Especificações do AMD Ryzen 9 9950X3D
+
+- **4.3GHz (5.7GHz Turbo)** → Frequência de operação do processador.  
+  - *4.3GHz*: velocidade base.  
+  - *5.7GHz Turbo*: velocidade máxima em modo de aumento automático (boost).
+
+- **16-Cores** → Quantidade de núcleos físicos.  
+  - Cada núcleo é capaz de executar tarefas de forma independente.
+
+- **32-Threads** → Número de processos simultâneos que podem ser executados.  
+  - Graças ao *SMT (Simultaneous Multithreading)*, cada núcleo pode lidar com 2 threads.
+
+- **AM5** → Tipo de soquete da placa-mãe compatível.  
+  - Necessário para encaixar fisicamente o processador.
+
+- **Sem Cooler** → O processador **não acompanha sistema de resfriamento**.  
+  - É preciso comprar separadamente um **air cooler** ou **water cooler** adequado.
+
+### Intel
+# 📌 Intel Ultra 9 285 — Explicação Simples
+
+## 🧩 CPU (processador)
+- **24 núcleos:** 8 rápidos (P-cores) + 16 econômicos (E-cores).  
+- **24 threads:** tarefas simultâneas que ele consegue fazer.  
+- **Velocidade máx.:** até 5,6 GHz (quando precisa de mais desempenho).  
+- **Cache L3 (36 MB):** memória super rápida dentro do processador.  
+- **Consumo:** 65W normal, até 182W no máximo.  
+- **Tecnologia 3 nm:** mais moderno e eficiente.
+
+## 💾 Memória (RAM)
+- **Até 192 GB DDR5:** suporta muita memória, bem rápida (6400 MHz).  
+- **2 canais:** caminhos para trocar dados com a RAM.  
+- **ECC:** memória com correção de erros (mais segurança).  
+
+## 🎮 Gráficos (GPU integrada)
+- **Frequência:** de 300 MHz até 2 GHz.  
+- **Resolução:** até 8K a 60 Hz.  
+- **Suporta DirectX 12, OpenGL, OpenCL:** compatível com jogos e softwares.  
+- **Quick Sync:** acelera vídeos (edição, streaming).  
+- **Até 4 monitores conectados.**
+
+## 🤖 NPU (para IA)
+- **13 TOPS:** poder dedicado a inteligência artificial.  
+- **Suporta frameworks de IA:** como OpenVINO, ONNX, WindowsML etc.  
+
+## ⚡ Expansões
+- **Thunderbolt 4:** conexões rápidas (dados, vídeo e energia).  
+- **PCIe 5.0/4.0:** entrada para placas de vídeo e SSDs.  
+- **24 linhas PCIe:** número de dispositivos que pode conectar.  
+
+## 🔥 Encapsulamento
+- **Soquete FCLGA1851:** onde encaixa na placa-mãe.  
+- **Temperatura máx.:** 105 °C.  
+
+## 🔐 Tecnologias extras
+- **Thread Director:** distribui tarefas entre núcleos rápidos e econômicos.  
+- **vPro:** recursos de segurança e gerenciamento remoto.  
+- **Virtualização:** rodar vários sistemas no mesmo PC.  
+- **AES / Boot Guard:** mais proteção e criptografia.  
+- **TDT:** detecta ameaças em tempo real.  
+
+---
+✅ Em resumo: o **Intel Ultra 9 285** é um processador super moderno, rápido, eficiente, com **gráficos, inteligência artificial, segurança e suporte a muitas tecnologias avançadas**.
+
