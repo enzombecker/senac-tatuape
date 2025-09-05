@@ -131,8 +131,7 @@ Quando não tiver 2 valores no primeiro triângulo (Lei de Ohm), usar o segundo 
 
 ## 🧮 Cálculos Práticos
 
-### 1. Fonte de 5V
-\[
+
 R = \dfrac{5V - 3V}{0,02A} = 100 \, \Omega
 \]
 
@@ -165,5 +164,7 @@ R = \dfrac{220V - 3V}{0,02A} \approx 10.850 \, \Omega
 
 
 
-[eletrica.pdf](https://github.com/user-attachments/files/22179589/eletrica.pdf)
+
+### 1. Fonte de 5V
+\[![eletrica](https://github.com/user-attachments/assets/802269f5-9e82-428d-b50d-a4e424885098)
 
