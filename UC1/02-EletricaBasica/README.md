@@ -90,119 +90,10 @@ U = Tensão
 
 P = Potência (Watt)
 
-🧮 Exemplos de Cálculo
-Exemplo 1
-
-𝑈
-=
-5
-𝑉
-U=5V
-
-𝐼
-=
-3
-𝐴
-I=3A
-
-𝑅
-=
-?
-R=?
-
-𝑅
-=
-𝑈
-𝐼
-=
-5
-3
-≈
-1
-,
-66
- 
-Ω
-R=
-I
-U
-	​
-
-=
-3
-5
-	​
-
-≈1,66Ω
-
 ⚠️ Se a corrente (I) for maior ou igual à tensão (U), ocorre curto-circuito.
 
-Exemplo 2
-
-Potência 
-𝑃
-=
-5500
-𝑊
-P=5500W
-
-Tensão 
-𝑈
-=
-220
-𝑉
-U=220V
-
-Corrente 
-𝐼
-=
-25
-𝐴
-I=25A
-
-𝑃
-=
-𝑈
-×
-𝐼
-=
-220
-×
-25
-=
-5500
-𝑊
-P=U×I=220×25=5500W
-
-✅ Equação confirmada!
-
-🔺 Triângulo da Potência
-Fórmula
-
-𝑃
-=
-𝑈
-×
-𝐼
-P=U×I
-
-𝑈
-=
-𝑃
-𝐼
-U=
-I
-P
-	​
 
 
-𝐼
-=
-𝑃
-𝑈
-I=
-U
-P
 	​
 
 
@@ -224,10 +115,3 @@ I = Corrente (Ampère)
 📌 Observação
 
 Quando não tiver 2 valores no primeiro triângulo (Lei de Ohm), usar o segundo triângulo da Potência para encontrar o que falta:
-
-𝑃
-=
-𝑈
-×
-𝐼
-P=U×I
