@@ -45,12 +45,6 @@ Instrumentação
 
 ---
 
-## 📐 Lei de Ohm
-
-### Fórmulas
-- \( V = I \times R \)  
-- \( I = \dfrac{V}{R} \)  
-- \( R = \dfrac{V}{I} \)  
 
 ### Triângulo da Lei de Ohm
 ```text
