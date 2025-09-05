@@ -19,7 +19,7 @@ Instrumentação
 🧰 Usar multímetro para descobrir as tensões corretamente.
 <img width="945" height="525" alt="eletrica " src="https://github.com/user-attachments/assets/c42c9ae4-62d2-4526-bb2a-068315d45f95" />
 
-# # ⚡ Eletricidade e Lei de Ohm
+# # ⚡ Eletricidade e Lei de Ohm 05/09/25
 
 ## 🔌 Corrente Alternada (CA / AC)
 
