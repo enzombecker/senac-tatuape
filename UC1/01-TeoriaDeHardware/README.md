@@ -1,3 +1,77 @@
+# 🖥️ Peças para PC
+
+## 🔧 Principais componentes
+
+- **Processador (CPU)**
+- **Placa-mãe**
+- **Memória RAM (DDR)**
+- **Armazenamento** (SSD ou HD)
+- **Placa de vídeo (GPU)**
+- **Fonte (PSU)**
+- **Gabinete**
+- **Air cooler**
+- **Fan / Ventoinha**
+- **Monitor, teclado e mouse**
+- **Sistema operacional**
+
+---
+
+## ⚡ Processador
+
+### Tipos
+- **i3 / Ryzen 3** → entrada  
+- **i5 / Ryzen 5** → intermediário  
+- **i7 / Ryzen 7** → desempenho  
+- **i9 / Ryzen 9** → trabalho pesado  
+
+### Marcas
+- **Intel** → i1 ao i14 / Ultra  
+- **AMD** → Ryzen 1000, 2000, 3000 / 4000, 5000, 7000, 8000, 9000  
+
+### Como saber qual é melhor?
+- **Intel Core i5 14400** é inferior ao **i5 14600**  
+- **AMD Ryzen 5 7500F** é inferior ao **Ryzen 5 7600**
+
+---
+
+## 🔤 Sufixos dos Processadores
+
+### AMD
+- **G** → gráficos integrados *(ex: Ryzen 5 8600G)*  
+- **X** → maior frequência *(ex: Ryzen 5 5600X)*  
+- **F** → sem gráficos integrados *(ex: Ryzen 5 7600F)*  
+- **3D** → maior cache *(ex: Ryzen 7 7800X3D)*  
+
+### Intel
+- **F** → sem gráficos integrados  
+- **K** → desbloqueado para overclock  
+
+---
+
+## 🧮 Núcleos e Threads
+
+- **Cores (núcleos):** parte física do processador  
+- **Threads:** processadores lógicos (tarefas virtuais por núcleo)  
+
+Exemplo:  
+- **2/4** → melhor que **2/2** (dobro de threads melhora o desempenho)  
+
+### Caso especial da Intel
+Alguns modelos usam **Performance Cores (P-Cores)** e **Efficient Cores (E-Cores):**
+
+- **10 núcleos (10C/16T)**  
+  - 6 P-Cores  
+  - 4 E-Cores  
+  - 16 Threads  
+
+---
+
+## 🔌 Sockets
+
+- **Intel** → LGA  
+- **AMD** → AM4 / AM5  
+
+
 # 🖥️ Gerações de Soquetes e Exemplos
 
 ## 🔹 Intel
