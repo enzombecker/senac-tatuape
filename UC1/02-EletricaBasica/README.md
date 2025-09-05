@@ -162,9 +162,3 @@ R = \dfrac{220V - 3V}{0,02A} \approx 10.850 \, \Omega
 - Sempre escolher um **resistor com valor maior ou igual** ao calculado.  
 - Isso evita sobrecorrente e aumenta a vida útil do LED.  
 
-
-
-
-### 1. Fonte de 5V
-\[![eletrica](https://github.com/user-attachments/assets/802269f5-9e82-428d-b50d-a4e424885098)
-
