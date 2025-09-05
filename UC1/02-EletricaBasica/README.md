@@ -163,3 +163,4 @@ R = \dfrac{220V - 3V}{0,02A} \approx 10.850 \, \Omega
 - Sempre escolher um **resistor com valor maior ou igual** ao calculado.  
 - Isso evita sobrecorrente e aumenta a vida útil do LED.  
 
+[Aula01-Lousa-05-09-2025.pdf](https://github.com/user-attachments/files/22179575/Aula01-Lousa-05-09-2025.pdf)
