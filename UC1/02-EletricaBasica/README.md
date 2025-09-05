@@ -109,3 +109,57 @@ I = Corrente (Ampère)
 📌 Observação
 
 Quando não tiver 2 valores no primeiro triângulo (Lei de Ohm), usar o segundo triângulo da Potência para encontrar o que falta:
+
+
+
+# 💡 Cálculo de Resistor para LED
+
+## 🔦 Exemplo: LED Branco
+- **Tensão do LED (Uled):** 3V  
+- **Corrente do LED (Iled):** 0,02A (20mA)  
+- **Potência (P):** 0,06W  
+
+---
+
+
+
+- **Valim** = Tensão da fonte  
+- **Vled** = Tensão do LED  
+- **Iled** = Corrente do LED  
+
+---
+
+## 🧮 Cálculos Práticos
+
+### 1. Fonte de 5V
+\[
+R = \dfrac{5V - 3V}{0,02A} = 100 \, \Omega
+\]
+
+---
+
+### 2. Fonte de 12V
+\[
+R = \dfrac{12V - 3V}{0,02A} = 450 \, \Omega
+\]
+
+---
+
+### 3. Fonte de 127V
+\[
+R = \dfrac{127V - 3V}{0,02A} \approx 6.200 \, \Omega
+\]
+
+---
+
+### 4. Fonte de 220V
+\[
+R = \dfrac{220V - 3V}{0,02A} \approx 10.850 \, \Omega
+\]
+
+---
+
+## ⚠️ Observação Importante
+- Sempre escolher um **resistor com valor maior ou igual** ao calculado.  
+- Isso evita sobrecorrente e aumenta a vida útil do LED.  
+
