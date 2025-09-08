@@ -7,3 +7,4 @@
 [aula 1 piscar LED .pdf](https://github.com/user-attachments/files/22216669/aula.1.piscar.LED.pdf)
 
 
+<img width="671" height="506" alt="arduino" src="https://github.com/user-attachments/assets/d904c6ad-c5ff-45d5-9576-4ac05378baea" />
