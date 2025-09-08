@@ -8,3 +8,42 @@
 
 
 <img width="671" height="506" alt="arduino" src="https://github.com/user-attachments/assets/d904c6ad-c5ff-45d5-9576-4ac05378baea" />
+
+📌 O que é Arduino?
+
+Arduino é uma plataforma de prototipagem eletrônica de código aberto baseada em hardware e software fáceis de usar. Ela permite a criação de projetos interativos que envolvem sensores, atuadores e programação.
+
+A placa Arduino possui um microcontrolador (como o ATmega328) que pode ser programado via USB usando a linguagem de programação C/C++ com a IDE do Arduino.
+
+Muito utilizada em projetos de automação, robótica, IoT (Internet das Coisas), sistemas embarcados e educação.
+
+🧾 Tipos de Comentários no Código Arduino
+
+No Arduino, os comentários são escritos para explicar o código, mas não são lidos nem executados pelo microcontrolador. Eles ajudam os programadores a entenderem melhor o que cada parte do código faz.
+
+/**
+ * Documentação de Cabeçalho
+ * Este tipo de comentário é usado para descrever o propósito do código,
+ * autor, data, licenças, etc.
+ */
+
+/*
+ * Comentários em bloco
+ * São usados para comentar várias linhas de uma vez.
+ * Úteis para desativar partes do código temporariamente.
+ */
+
+// Comentário em linha
+// São usados para explicar uma linha específica do código.
+
+⚠️ Boas Práticas com Comentários
+
+✅ Use comentários para explicar o "porquê" do código, não apenas o "como".
+
+✅ Seja claro e objetivo.
+
+✅ Mantenha os comentários atualizados com o código.
+
+❌ Evite excesso de comentários óbvios (ex: x = 1; // x é igual a 1).
+
+❌ Comentários confusos ou desatualizados atrapalham mais do que ajudam.
