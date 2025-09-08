@@ -47,3 +47,58 @@ No Arduino, os comentários são escritos para explicar o código, mas não são
 ❌ Evite excesso de comentários óbvios (ex: x = 1; // x é igual a 1).
 
 ❌ Comentários confusos ou desatualizados atrapalham mais do que ajudam.
+
+
+💡 Projeto: Pisca LED com Arduino
+/**
+ * Pisca LED
+ * @author Enzo Mesquita
+ */
+
+
+Este é um exemplo básico de um programa que acende um LED no pino digital 13 da placa Arduino. Ideal para iniciantes aprenderem como usar saídas digitais.
+
+🔧 Comando pinMode
+pinMode(13, OUTPUT);
+
+
+Função: Configura o pino 13 como saída digital.
+
+Uso: Tudo que você quiser controlar (LEDs, motores, relés) deve estar em um pino configurado como OUTPUT.
+
+⚡ Comando digitalWrite
+digitalWrite(13, HIGH);
+
+
+Função: Envia nível alto (5V) ao pino 13, fazendo o LED acender.
+
+Parâmetros:
+
+13: Número do pino
+
+HIGH: Nível lógico alto (5V ou 1 binário)
+
+✅ Código Corrigido e Explicado
+/**
+ * Pisca LED
+ * @author Enzo Mesquita
+ */
+
+void setup() {
+  pinMode(13, OUTPUT); // configurar o pino 13 como saída
+  digitalWrite(13, HIGH); // acender o LED (HIGH = 5V ou 1 binário)
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+}
+
+ℹ️ Dicas Importantes
+
+Sempre termine comandos com ponto e vírgula (;).
+
+Tudo que for programar antes do ponto e vírgula faz parte da instrução.
+
+O comando setup() é executado uma única vez ao iniciar.
+
+O comando loop() roda continuamente enquanto o Arduino estiver ligado
