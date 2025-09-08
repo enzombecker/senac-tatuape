@@ -134,7 +134,7 @@ void loop() {
 
 ⏱️ SOBRE O DELAY
 
-1000ms igualaumsegundo
+1000ms igual a um segundo
 
 para piscar mais rapido diminua numero do delay
 
