@@ -48,8 +48,7 @@ No Arduino, os comentários são escritos para explicar o código, mas não são
 
 ❌ Comentários confusos ou desatualizados atrapalham mais do que ajudam.
 
-
-###💡 Projeto: Pisca LED com Arduino
+💡 Projeto: Pisca LED com Arduino
 /**
  * Pisca LED
  * @author Enzo Mesquita
@@ -66,7 +65,7 @@ Função: Configura o pino 13 como saída digital.
 
 Uso: Tudo que você quiser controlar (LEDs, motores, relés) deve estar em um pino configurado como OUTPUT.
 
-***⚡ Comando digitalWrite
+⚡ Comando digitalWrite
 digitalWrite(13, HIGH);
 
 
