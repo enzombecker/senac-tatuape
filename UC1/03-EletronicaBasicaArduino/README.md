@@ -123,9 +123,13 @@ e coloque:
 
 void loop() {
   digitalWrite(13, HIGH);  // acenderled
+  
   delay(1000);             // esperarumsegundo1000milissegundos
+  
   digitalWrite(13, LOW);   // apagarled
+  
   delay(1000);             // esperarumsegundo1000milissegundos
+  
 }
 
 ⏱️ SOBRE O DELAY
