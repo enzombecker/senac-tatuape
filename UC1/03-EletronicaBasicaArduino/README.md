@@ -4,5 +4,6 @@
 
 <img width="512" height="363" alt="unoR3-esquema" src="https://github.com/user-attachments/assets/e717c222-665c-40bd-956a-7905dbd920d3" />
 
+[aula 1 piscar LED .pdf](https://github.com/user-attachments/files/22216669/aula.1.piscar.LED.pdf)
 
 
