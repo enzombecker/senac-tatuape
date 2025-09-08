@@ -101,3 +101,39 @@ Tudo que for programar antes do ponto e vírgula faz parte da instrução.
 O comando setup() é executado uma única vez ao iniciar.
 
 O comando loop() roda continuamente enquanto o Arduino estiver ligado
+
+⚠️ PARA DESLIGAR O LED
+digitalWrite(13,LOW)
+
+
+troque HIGH por LOW
+
+HIGHT está errado, o correto é HIGH
+
+LOW faz o pino receber 0V, apagando o LED
+
+🔁 PARA FAZER PISCAR
+
+apague a linha que só acende:
+
+// digitalWrite(13, LOW);  // acender o LED (HIGH = 5V ou 1 binario)
+
+
+e coloque:
+
+void loop() {
+  digitalWrite(13, HIGH);  // acenderled
+  delay(1000);             // esperarumsegundo1000milissegundos
+  digitalWrite(13, LOW);   // apagarled
+  delay(1000);             // esperarumsegundo1000milissegundos
+}
+
+⏱️ SOBRE O DELAY
+
+1000ms igualaumsegundo
+
+para piscar mais rapido diminua numero do delay
+
+exemplo: delay(500) iguala mei 0 segundo
+
+exemplo: delay(100) iguala 0 ponto 1 segundo
