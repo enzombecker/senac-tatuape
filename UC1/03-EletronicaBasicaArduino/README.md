@@ -122,13 +122,13 @@ apague a linha que só acende:
 e coloque:
 
 void loop() {
-  digitalWrite(13, HIGH);  // acenderled
+  digitalWrite(13, HIGH);  // acender led
   
-  delay(1000);             // esperarumsegundo1000milissegundos
+  delay(1000);             // esperar um segundo 1000 milissegundos
   
-  digitalWrite(13, LOW);   // apagarled
+  digitalWrite(13, LOW);   // apagar led
   
-  delay(1000);             // esperarumsegundo1000milissegundos
+  delay(1000);             // esperar um segundo 1000 milissegundos
   
 }
 
