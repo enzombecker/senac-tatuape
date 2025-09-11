@@ -242,4 +242,26 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 
 ![Placa-Mãe MSI Pro A620M-E-Aula](https://github.com/user-attachments/assets/3eaafb1c-a9c3-4cb4-834c-e5394c2a70cb)
 
+![placa A](https://github.com/user-attachments/assets/9877193d-52e6-458e-936a-901564865845)
+
+# 📜 Componentes da PLACA-A
+
+1. **Socket**  
+2. **VRM**  
+3. **PWM-Fans / Fan do cooler**  
+4. **RAM DDR5**  
+5. **Conector CPU (8 pinos)**  
+6. **Debug LED**  
+7. **ATX Conector da Fonte (16 pinos)**  
+8. **Conector SATA**  
+9. **Painel Frontal**  
+10. **USB**  
+11. **Conector USB 2.0**  
+12. **Conector Áudio**  
+13. **PCI x1 / Rede**  
+14. **Bateria**  
+15. **PCI 16x / Placa de Vídeo**  
+16. **SSD**  
+17. **SYS Fan 
+
 
