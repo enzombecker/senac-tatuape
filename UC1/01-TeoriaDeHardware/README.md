@@ -238,8 +238,6 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 
 ![Placa-Branca-VRM](https://github.com/user-attachments/assets/053ac35f-2035-44cf-86f6-fa6855a1014c)[README.md](https://github.com/user-attachments/files/22242399/README.md)
 
-![placa-mae-asus-tuf-gaming-x670e-plus-aula](https://github.com/user-attachments/assets/5dc68823-c72d-474c-94a4-8779e44c36be)
-
 
 ![placa A](https://github.com/user-attachments/assets/9877193d-52e6-458e-936a-901564865845)
 
