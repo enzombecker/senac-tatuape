@@ -264,4 +264,28 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 16. **SSD**  
 17. **SYS Fan 
 
+![placa X](https://github.com/user-attachments/assets/4e187b51-4bdf-45f5-a328-f122c910b395)
 
+# 🔧 Componentes da PLACA-X
+
+1. **Conector CPU (8 pinos)**  
+2. **VRM**  
+3. **Socket**  
+4. **PWM / Fans**  
+5. **ARGB 5V (3 pinos)**  
+6. **Debug LED**  
+7. **Conector da Fonte (16 pinos)**  
+8. **USB-C**  
+9. **USB 3.x**  
+10. **CHA Fans**  
+11. **Conector SATA**  
+12. **Conector do Painel**  
+13. **USB**  
+14. **Áudio do Painel**  
+15. **SSD M.2 NVMe**  
+16. **Conector da Placa de Vídeo**  
+17. **Conector de Rede PCI x1**  
+18. **Conector da Placa de Vídeo / Rede PCI x4**  
+19. **Bateria**  
+20. **RAM DDR5**  
+21. **LED**  
