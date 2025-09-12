@@ -285,4 +285,4 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 18. **Conector da Placa de Vídeo / Rede PCI x4**  
 19. **Bateria**  
 20. **RAM DDR5**
-21. **LED**  
+21. **LED**
