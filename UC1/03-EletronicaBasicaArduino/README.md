@@ -141,3 +141,54 @@ para piscar mais rapido diminua numero do delay
 exemplo: delay(500) iguala mei 0 segundo
 
 exemplo: delay(100) iguala 0 ponto 1 segundo
+
+*** desafio do semaforo
+
+void setup() {
+  // semaforo 1
+  pinMode(13, OUTPUT);  // vermelho A
+  pinMode(12, OUTPUT);  // amarelo A
+  pinMode(11, OUTPUT);  // verde A
+
+  // semaforo 2
+  pinMode(10, OUTPUT);  // vermelho B
+  pinMode(9, OUTPUT);   // amarelo B
+  pinMode(8, OUTPUT);   // verde B 
+}
+
+void loop() {
+  // ciclo 1
+  digitalWrite(11, HIGH); // acender verde A
+  digitalWrite(10, HIGH); // acender vermelho B
+  delay(3000);
+
+  // ciclo 2
+  digitalWrite(11, LOW);  // apagar verde A
+  digitalWrite(10, HIGH); // manter vermelho B
+  digitalWrite(12, HIGH); // acender amarelo A
+  delay(3000);
+
+  // ciclo 3
+  digitalWrite(10, LOW);  // apagar vermelho B
+  digitalWrite(12, LOW);  // apagar amarelo A
+  digitalWrite(8, HIGH);  // acender verde B
+  digitalWrite(13, HIGH); // acender vermelho A
+  delay(3000);
+
+  // ciclo 4
+  digitalWrite(8, LOW);   // apagar verde B
+  digitalWrite(13, HIGH); // manter vermelho A
+  digitalWrite(9, HIGH);  // acender amarelo B
+  delay(3000);
+
+  // ciclo 5
+  digitalWrite(13, LOW);  // apagar vermelho A
+  digitalWrite(9, LOW);   // apagar amarelo B
+  digitalWrite(11, HIGH); // acender verde A
+  digitalWrite(10, HIGH); // acender vermelho B
+  delay(3000);
+
+  // ciclo 6
+  digitalWrite(11, HIGH); // acender verde A
+  digitalWrite(10, HIGH); // acender vermelho B
+}
